@@ -1,0 +1,8 @@
+*.json
+*.csv
+*.tsv
+*.txt
+*.pkl
+*.model
+
+data
